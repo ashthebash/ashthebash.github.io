@@ -1,0 +1,215 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ashley Walton",
+    "label": "Educator & Programmer",
+    "image": "https://i.imgur.com/96XuhDI.jpeg",
+    "email": "ashjwalton@gmail.com",
+    "url": "http://ashthebash.me",
+    "summary": "Educator, Game Dev Technical Generalist, and Programming Hobbyist. Seeking opportunities to deepen my skills and settle in the Greater Helsinki Metropolitan Area.",
+    "location": {
+      "countryCode": "GB",
+      "region": "West Sussex"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ashjwalton",
+        "url": "https://www.linkedin.com/in/ashjwalton/"
+      },
+      {
+        "network": "GitHub",
+        "username": "ashthebash",
+        "url": "https://github.com/ashthebash"
+      },
+      {
+        "network": "itch.io",
+        "username": "ashthebash",
+        "url": "https://ashthebash.itch.io/"
+      },
+      {
+        "network": "ArtStation",
+        "username": "ashthebash",
+        "url": "https://ashthebash.artstation.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Greater Brighton Metropolitan College",
+      "location": "Worthing, GB",
+      "description": "Further Education Vocational College",
+      "position": "Game Development Programming Lecturer",
+      "url": "http://gbmc.ac.uk",
+      "startDate": "2018-02-01",
+      "endDate": "2021-11-01",
+      "summary": "During my teacher training I was offered the opportunity very early on to start teaching on the game development course at GBMET. I was able to reinvigorate the programming provision, focusing on Unity & C#, Unreal Engine & Blueprints. I have taught from Level 1 to 6 during this time.",
+      "highlights": [
+        "Managing all aspects of the student journey; including recruitment, curriculum planning, teaching, learning, and achievement.",
+        "Deliver an exceptional student experience through outstanding teaching, learning and assessment leading to positive achievement outcomes and progression on to higher levels of study, employment, or apprenticeships.",
+        "Undertake regular assessment of student work against learning outcomes, providing students with timely constructive feedback in line with college and awarding body regulations.",
+        "Sustain student recruitment through contributing to recruitment, promotion, and marketing events such as open days, UCAS fairs, and partner activities to achieve student recruitment targets.",
+        "Work collaboratively with colleagues in the planning, preparation, and development of the curriculum, content and resources ensuring that it is differentiated to meet the needs of different individuals, ensuring Equality, Diversity, and safe working practices."
+      ]
+    },
+    {
+      "name": "Greater Brighton Metropolitan College",
+      "location": "Worthing, GB",
+      "description": "Further Education Vocational College",
+      "position": "Programme Lead (Maternity Cover)",
+      "url": "http://gbmc.ac.uk",
+      "startDate": "2020-06-01",
+      "endDate": "2021-07-01",
+      "summary": "This was an opportunity to develop my skills as an educator and facilitator, problem solving and experimenting with way of managing a cohort and collaborating with stakeholders.",
+      "highlights": [
+        "Coordinating the standardisation, internal, and external verification of student work to ensure the sufficiency and validity of evidential sources when assessing student work.",
+        "Support and coordinate the collaboration of course teams and curriculum managers through a range of activities; recruitment, marketing, standardisation, course information, and student enrolment.",
+        "Facilitating the implementation of work experience opportunities inside and outside of the college, utilizing industry contacts and knowledge to integrate these experiences within the curriculum framework."
+      ]
+    }
+  ],
+  "volunteer": [{}],
+  "education": [
+    {
+      "institution": "University of Brighton",
+      "area": "Professional Graduate Certificate in Education",
+      "studyType": "Postgraduate",
+      "startDate": "2017-09-01",
+      "endDate": "2018-07-01"
+    },
+    {
+      "institution": "Solent University",
+      "area": "Game Development",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2017-07-01",
+      "score": "2:1"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Course Rep of the Year",
+      "date": "2016-05-19",
+      "awarder": "Solent Student Union",
+      "summary": "I was honoured to receive this award due to my support of all my classmates during a difficult year of disruptions to our education."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Supporting Autism with Virtual Reality",
+      "publisher": "Solent University",
+      "releaseDate": "2017-03-16",
+      "url": "https://www.youtube.com/watch?v=dlHdQwd3k38",
+      "summary": "A focus of my dissertation and my Major Project was looking at how VR could support individuals with complex needs and build ressilience in challenging situations."
+    },
+    {
+      "name": "Turning a Course into a Game Could Give Learners That Competitive Edge",
+      "publisher": "Education & Training Foundation",
+      "releaseDate": "2018-12-01",
+      "url": "https://www.et-foundation.co.uk/wp-content/uploads/2018/12/EdTech-Supplement.pdf",
+      "summary": "This piece was written for the Education & Training Foundations inTuition EdTech supplement, exploring gamification and the impact on learner development and their progression into their chosen vocation."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Education",
+      "level": "Advanced",
+      "keywords": [
+        "Management",
+        "Strategic Planning",
+        "Organisation",
+        "Administration",
+        "Agile",
+        "Presentation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Game Programming",
+      "level": "Intermediate",
+      "keywords": ["C#", "Blueprints", "Unity", "Unreal Engine"]
+    },
+    {
+      "name": "3D Modelling",
+      "level": "Intermediate",
+      "keywords": ["Maya", "3DS Max", "Zbrush"]
+    },
+    {
+      "name": "Texturing",
+      "level": "Intermediate",
+      "keywords": ["Photoshop", "Substance Painter", "Substance Designer"]
+    },
+    {
+      "name": "Game Engines",
+      "level": "Intermediate",
+      "keywords": [
+        "Unity",
+        "Unreal Engine",
+        "Materials",
+        "Particle Systems",
+        "Visual Scripting"
+      ]
+    },
+    {
+      "name": "Project Management and Planning",
+      "level": "Intermediate",
+      "keywords": [
+        "Curriculum Planning",
+        "Agile",
+        "Effective Communication",
+        "Coaching"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Management & Leadership",
+      "level": "Beginner",
+      "keywords": ["Coaching", "Teambuilding", "Staff Development"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Finnish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": " ",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "highlights": [""],
+      "keywords": [""],
+      "startDate": "2000-00-00",
+      "endDate": "2000-00-00",
+      "url": "http://google.com",
+      "roles": [""],
+      "entity": "",
+      "type": ""
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
